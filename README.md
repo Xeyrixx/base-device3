@@ -1,99 +1,83 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> HII PENGGUNA BOT👋
+## Example bot from Rest APIs
+<a href="https://danzzapi.xyz">danzzapi.xyz</a>
 
-<p align="center">
+## Please enter apikey in set.js
+Not have apikey? Open: https://danzzapi.xyz
 
-<img src="https://indomiebase.my.id/img/icon.jpg" alt="Hi Ka" width="600">
-
-<a href="https://avatars.githubusercontent.com/u/81602606?v=4"><img title="Aulia Rahman" src="https://img.shields.io/badge/Aulia Rahman-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/skimura-soft"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AULIA RAHMAN-green.svg?style=for-the-badge&logo=github"></a>
-
-</p>
-
-<details>
-
- 
-
-</details>
-
-### BAHAN BOT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-
-* `TERMUX`
-* `VPS`
-* `RDP`
-
-### Download Termux Di? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-
-[`F-DROID TERMUX V.118`](https://f-droid.org/repo/com.termux_118.apk)
-
-[`F-DROID TERMUX V.117`](https://f-droid.org/repo/com.termux_117.apk)
-
-[`F-DROID TERMUX V.116`](https://f-droid.org/repo/com.termux_116.apk)
-
-
-### Cara Install For Termux  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+## Intalasi
+### For termux
 
 ```
-$ pkg install git
-
-$ pkg install nodejs [error]
-
-$ pkg upgrade nodejs
-
-$ git clone https://github.com/liaacans/base-device
-
-$ cd base-device
-
-$ npm i atau npm install
-
-$ node main.js atau npm start
-
-$ Tinggal scan kode qr, done
-
+> apt update && apt upgrade
+> pkg install git
+> pkg install nodejs
+> pkg install ffmpeg
+> pkg install imagemagick
+> pkg install libwebp
+> pkg install yarn
+> git clone https://github.com/Danzzxcodes/danzz-mdv1
+> cd danzz-mdv1
+> yarn
+> npm start
 ```
 
-## Cara Install Rdp/Vps
+## For windows/RDP
+
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install Ffmpeg [`Click Here`](https://ffmpeg.org/download.html)
 
 ```
-$ apt install git
-
-$ apt install nodejs
-
-$ apt install ffmpeg
-
-$ git clone https://github.com/liaacans/base-device
-
-$ cd base-device
-
-$ npm install
-
-$ node main.js atau npm start
+> git clone https://github.com/Danzzxcodes/danzz-mdv1
+> cd danzz-mdv1
+> npm i
+> npm start
 ```
 
-## Sosial Media Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## For replit
+1. Regist in https://replit.com
+2. Click plus button
+3. Click import from github
+4. Enter link: https://github.com/Danzzxcodes/danzz-mdv1
+5. Run/click green button
 
-* [`Youtube Admin`](https://youtube.com/AuliaRahmanOfficial123)
+## Replit buildpack
+```FFMPEG```<br>
+pkgs install ffmpeg
 
-* [`Instagram Admin`](https://instagram.com/auliarahman_ckep)
+```WEBP```<br>
+pkgs install libwebp
 
-* [`WhatsApp Admin`](https://wa.me/6285821676621)
+## Heroku buildpack
+```NODE.JS:```<br>
+heroku/nodejs
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗔𝗹𝗹 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗕𝗼𝘁 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+```FFMPEG:```
+https://github.com/Danzzxcodes/heroku-buildpack-ffmpeg-latest.git
 
+```WEBP:```
+https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
 
-* `ALLAH SWT`
+---------
 
-* `BAILEYS`
+## Features list
+* Downloader
+* Asupan
+* Cecan
+* Cogan
+* Anime
+* Search
+* Text pro
+* Photo oxy
+* Ephoto
+* convert
+* Other
+* Owner
 
-* `Aulia Rahman`
+## Social media
+<a href="https://youtube.com/DanzzCoding">Youtube</a><br>
+<a href="https://instagram.com/ramdani_real01">Instagram</a><br>
 
-* `ZeroYt7`
-
-* `PENGGUNA BOT`
-
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" /># base-device3
+## Contact
+<a href="https://wa.me/6289512545999">WhatsApp</a><br>
+<a href="mailto:danzzcoding@gmail.com">Email</a>
