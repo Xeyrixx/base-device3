@@ -1,0 +1,79 @@
+{
+  "users": {
+    "6287822409581@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6281280020649@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Unlimited"
+    },
+    "6282329616980@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    }
+  },
+  "chats": {
+    "6287822409581@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkig": false,
+      "antiwame": false,
+      "antiviewonce": false
+    },
+    "120363044515721770@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antilinkig": false,
+      "antiwame": false,
+      "antiviewonce": false
+    },
+    "120363047274807207@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antilinkig": false,
+      "antiwame": false,
+      "antiviewonce": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6281586594062@s.whatsapp.net": {
+      "status": 1671197020951,
+      "autobio": true,
+      "autotyping": true
+    }
+  },
+  "others": {
+    "vote": [],
+    "menfes": [],
+    "user": [
+      {
+        "id": "6281280020649@s.whatsapp.net",
+        "name": "#GRQe7dS",
+        "seri": "oBWnLUDu1F"
+      },
+      {
+        "id": "6287822409581@s.whatsapp.net",
+        "name": "#GRxlTNx",
+        "seri": "IMMNQjCJix"
+      }
+    ]
+  },
+  "sticker": {}
+}
